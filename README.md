@@ -1,2 +1,2 @@
 # python-challenge
-My python homework
+The python challenge for two homework
